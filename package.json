@@ -55,7 +55,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "postcss": "^8.4.14"
   },
   "resolutions": {
     "react-spring": "9.0.1"
