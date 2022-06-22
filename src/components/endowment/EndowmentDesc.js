@@ -7,7 +7,7 @@ const EndowmentDesc = () => {
     <Grid container>
       <Grid item xs="1" />
       <Grid item xs="11">
-        <h1 class="header-margin">The Endowment</h1>
+        <h1 id="endow" class="header-margin">The Endowment</h1>
       </Grid>
       
       <Grid item xs="1" md="2"/>

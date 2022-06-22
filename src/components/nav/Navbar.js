@@ -2,7 +2,7 @@ import { createRef } from "react";
 import ScrollSpy from "react-scrollspy";
 
 const Navbar = () => {
-  const itemList = ["intro", "budget", "sankey", "endowment", "timeline", "faq", "resources"];
+  const itemList = ["intro", "budget", "sankey", "endow", "resources"];
 
   return(
     <ScrollSpy   
