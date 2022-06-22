@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stanford-finances",
+  "private_key_id": "3bc7b782330c71411b825e95d6d660c37d6dd6d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCUNl7UlSCx2x+m\nFT0UFCX3C2SMLWS42uA0Zxjfjn9GJIeMDSripD5U3EZVB+VlouTkMFUsjUwMX173\nwbMUWXmtDASUs+97+0T0hmt8nt5kst7N7WqtcUDIAw/X3bnP7Wdf7qeW7R9/SXsZ\nl/quLf5wmFwDhBgXbXqrtBHWeGn1LsXQsAznvHs2JRZ+y5kU7YPG0MPD88FVXPcz\nEaV9N/Lq9X8ZD+aDHJSfmKQOBwK9tipa/3mUiVH1Nf9hTRq0zlxXe57vyjGSXOcM\nIvfIs2PIdsF2aLLEqDEyrQ1ZRQlry0xEbyXDRlWW55z45/Y+mSF+LvDtkeoL7gS3\nJGrlhM3RAgMBAAECggEACIzZbCidPf1u5jkn8KJX7VhQKOEOhDaGRCelcPIqx/xg\nAHWbAX+po+IgQZQGyRX8X+ik5UDSgA05cJARWW1u/kto8T4vJOciO3wMs+ADYupJ\nvbYCVzanHtLEZXbiWwsuUUO2kdekn0Z5LkkM+mLnYI39kutaK3HSp5ioBcglDrKZ\nSR3Z+i4kmxCW0LGYM+C7aafzO/S294sXRK7N2fl0ThzqyDRBDlTCP+YxqtLU3z37\npOpbtzmSBzD5UiAF8Sv8czCLCdqC78h502UOBhN0bQEjT+7i6uUOSE+YIU5ybRrN\nHtSxyb3nDyBy9/mksEw6PN36wi3W9otO5QN+IUPTdQKBgQDRPw2hnHh4bPN+fIRp\n32soliKQDNZPjL91mrY8Pa9HVkigHQMAUgcfWA1NsPggRDrIy3ffDTd6IKuKX7rA\nRPGxKVBeEoeyiBawznD94M5tdhaWXMU4YKLf0KVeJFYY8PW7kP26qm+IpRlJkiiJ\nU49pV+C7hW92KCkjx0kXVEUl9QKBgQC1VCj9Pm0b+jh1K0zlZ8oTqR1S63FGxPjL\nQ3nUAp+oASJKLjSG0H00GLVutF9DBquMbcrVCuXCLcAibONQjghEPz/oJwLT7im7\nWn9iZITLfz9BjwC+Z5x9FS+WXQe9Z6xl+6cjqnCJMoDxLJN4OtvGVCpQJF2fc/WI\nkZOCPKnC7QKBgEqJ/Z8ekEPF/A+I59qXPiMdKH7MM+PurZ2FWXmoN7Jf6EsxSopo\nriTaRxLwAdPsukwhPzh0Ctk0nicS5wHrDXYg04JPc4uDsyGUyOeHl8GimXVC4vas\nZhj4yI/6vbjwzXjds6U1Zbn1pkZxDIOvAp1yMppadFRRBia6rSzkViWpAoGACOgI\nV2AAlfY1XbPxw/bUGyEcWp1L5BD6s2kuC7bRRrw/hes9Ez4cWDm6d6SOZUlnla8y\n3kH5xQ7gOBCnHabMSyXcKrf30JcLH7OzPA754tDuN3chrziBnDc1LiqFnc0Az8WL\nkRnnCyYa5T2uRKKHdvddWLBglNtqPPoBh80Y/YUCgYBv0CGGg2BoLDuGbeD9qTUJ\n3ZHWo5mtzFDaCMgt3dP9FCbIs8d9H5+rOUayAQNTDYljOSXJhYKwyPME+GQwJAvs\nViOumFNCuj7NL7nGa1Uvr6jR4D+0jpv0qHZpJu8n+PJwRze+afS52bEtJfRfjYT3\nzq6ddl80Hv6IHiW8mz7w9Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "stanford-finances@appspot.gserviceaccount.com",
+  "client_id": "105012722191194752758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stanford-finances%40appspot.gserviceaccount.com"
+}
