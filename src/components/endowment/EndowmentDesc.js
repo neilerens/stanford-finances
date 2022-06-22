@@ -1,6 +1,5 @@
 import { Grid } from "@material-ui/core";
 import endowPic from '../endowment.png'; // Tell Webpack this JS file uses this image
-console.log(endowPic); // /logo.84287d09.png
 
 const EndowmentDesc = () => {
   return(

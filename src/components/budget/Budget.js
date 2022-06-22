@@ -39,8 +39,8 @@ const Budget = () => {
         <div style={{height: divHeight()}} />
         <BudgetExpense />
       </div>
-      <div>
-      <TimelineDesc />
+      <div id="timeline-div">
+        <TimelineDesc />
       </div>
     </div>
     
