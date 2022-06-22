@@ -41,7 +41,6 @@ const Resources = () => {
       </Grid>
       <Grid item xs="1" md="2"/>
     </Grid>
-    
   );
 }
 

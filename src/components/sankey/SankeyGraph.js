@@ -263,6 +263,7 @@ const SankeyGraph = () => {
           nodeBorderColor={{ from: 'color', modifiers: [ [ 'darker', 0.8 ] ] }}
           nodeTooltip={node =>
             (node.label === "") ? <span className={classes.nodeStyle}>Total Cost: $155,808.67</span> :
+
             <span className={classes.nodeStyle}>{node.label}</span>
           }
           linkTooltip={node => getLinkTooltip(node)}
