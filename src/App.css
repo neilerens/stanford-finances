@@ -104,6 +104,7 @@ body {
     max-width: 100%;
   height: auto;
 }
+
 /* Intro CSS */
 #intro-div {
 	height: 400px;
@@ -124,6 +125,8 @@ body {
 	font-weight: bold;
 	font-size: 90px;
 	text-shadow: 0 0 30px rgb(0 0 0 / 70%);
+  text-align: center;
+
 }
 
 @media (max-width: 1100px) {
@@ -131,6 +134,7 @@ body {
 		font-size: 70px;
 	}
 }
+
 .QandA {
     text-align: center;
     color: #8c1515;
@@ -171,3 +175,4 @@ body {
 		'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
 		sans-serif;
 } */
+
